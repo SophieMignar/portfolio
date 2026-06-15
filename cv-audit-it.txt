@@ -1,0 +1,63 @@
+AUDIT IT
+KEKEMBA SOPHIE
++33 7 58 84 25 27 • sophiemignarb@gmail.com • linkedin.com/in/kekemba
+
+PROFIL
+Diplômée d'un Mastère Spécialisé en Contrôle de Gestion & Audit SI (SKEMA) et d'un Master en Cybersécurité,
+je combine une solide formation en audit interne et externe, contrôle interne, gouvernance IT (COBIT) et
+gestion des risques SI. Orientée relation client, rigoureuse et analytique, je souhaite mettre ces compétences au
+service de missions d'audit IT et de conseil en transformation digitale.
+
+EXPÉRIENCE PROFESSIONNELLE
+Business Analyst IT • Bureau Veritas Group | Paris
+01/2025 – Présent
+Projet VeriStar Green — transformation digitale d'une application critique à dimension internationale.
+• Évaluation des risques IT et identification des contraintes réglementaires et métiers lors du cadrage des
+nouvelles fonctionnalités.
+• Vérification de la conformité des développements applicatifs aux exigences métiers et réglementaires avant
+mise en production.
+• Formulation de recommandations de priorisation aux Business Owners — élaboration de roadmaps
+fonctionnelles.
+• Pilotage des phases de recette (UAT) : organisation, qualification des anomalies et validation des livrables.
+• Conduite du changement : accompagnement des utilisateurs et rédaction de la documentation fonctionnelle
+(user guides, procédures).
+Auditrice IT • Anjoy IT | Lyon
+01/2024 – 08/2024
+• Mission d'évaluation des risques sur applications critiques : cartographie technique, identification et
+classification des vulnérabilités selon OWASP, tests d'intrusion.
+• Production d'un rapport d'audit structuré avec recommandations priorisées et plan de remédiation —
+présentation aux parties prenantes.
+• Mise en place d'un dispositif de monitoring ELK — conception de tableaux de bord pour le pilotage des
+risques opérationnels.
+Consultant Systèmes & Infrastructure • SoftSolux | Lomé
+01/2021 – 09/2021
+• Analyse des incidents IT récurrents et élaboration de plans d'amélioration continue.
+• Administration Azure AD / Active Directory : gestion des accès (IAM), politiques de sécurité et conformité.
+
+FORMATION
+Mastère Spécialisé – Expert en Contrôle de Gestion & Audit SI
+
+09/2024 – Présent
+SKEMA Business School, Paris — Audit interne & externe, Contrôle interne, Commissariat aux Comptes, Gouvernance IT
+(COBIT), CISA
+
+Master – Cybersécurité et Cloud
+
+09/2022 – 10/2024
+
+ESTIAM Paris
+
+COMPÉTENCES
+Audit & Risques SI : Cartographie des risques (ISO 27005), ITGC, contrôle interne, audit applicatif, OWASP,
+PCA/PRA
+Référentiels & Conformité : ISO 27001, ISO 27005, NIST CSF, COBIT, IAM, CISA (en cours)
+Conseil & Transformation : Cadrage fonctionnel, roadmap, recommandations stratégiques, conduite du
+changement
+Outils : Power BI, Excel (Power Query, VBA), Kibana, Jira, Confluence
+
+LANGUES
+Français : Natif
+
+Anglais : C1 — courant professionnel
+
+
